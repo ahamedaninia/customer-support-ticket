@@ -1,7 +1,7 @@
 # Customer Support Ticket Analysis for Improving Customer Feedback
 
 ## A note for those who look through this project..
-This project, if submitted to a higher up to be implemented into an overarching customer service operation, would be utterly laughed at and I would be fired. I am unable to obtain an accuracy score of above 25% for this project. So why do I keep it in? Because I like to think it's a showcase of my ability to continue trying even when I fail. This project is the answer when an interviewer asks "tell me about a time you failed". Enjoy reading through!
+This project is the answer when an interviewer asks "tell me about a time you failed." If submitted to a higher up to be implemented into an overarching customer service operation, would be utterly laughed at and I would be fired. I am unable to obtain an accuracy score of above 25% for this project. So why do I keep it in? Because I like to think it's a showcase of my ability to continue trying even when I fail. Enjoy reading through!
 
 ## Project Overview
 In this project, I will be working with a Customer Support Ticket dataset that includes customer support tickets for various tech products. This dataset contains customer inquiries related to hardware and software issues, network problems, account access, data loss, and other support topics. It also provides information about the customer, when they purchased the product, what type of ticket, the ticket channel, status, and any other relevant details.
